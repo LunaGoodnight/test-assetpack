@@ -13,12 +13,11 @@
             "shinning_water_h.atlas"
           ],
           "src": [
-            "images/common/spine/shinning_water_h-RIvgzA.atlas"
+            "images/common/spine/shinning_water_h-RIvgzA.png.atlas"
           ],
           "data": {
             "tags": {
-              "m": true,
-              "nc": true
+              "m": true
             }
           }
         },
@@ -32,8 +31,7 @@
           ],
           "data": {
             "tags": {
-              "m": true,
-              "nc": true
+              "m": true
             }
           }
         },
@@ -44,21 +42,6 @@
           ],
           "src": [
             "images/common/spine/shinning_water_h-09ltgw.png"
-          ],
-          "data": {
-            "tags": {
-              "m": true,
-              "nc": true
-            }
-          }
-        },
-        {
-          "alias": [
-            "images/common/spine/shinning_water.png",
-            "shinning_water.png"
-          ],
-          "src": [
-            "images/common/spine/shinning_water-09ltgw.png"
           ],
           "data": {
             "tags": {
