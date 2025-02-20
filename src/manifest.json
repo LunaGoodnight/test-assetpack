@@ -1,0 +1,73 @@
+{
+  "bundles": [
+    {
+      "name": "default",
+      "assets": []
+    },
+    {
+      "name": "spine",
+      "assets": [
+        {
+          "alias": [
+            "images/common/spine/shinning_water_h.atlas",
+            "shinning_water_h.atlas"
+          ],
+          "src": [
+            "images/common/spine/shinning_water_h-RIvgzA.atlas"
+          ],
+          "data": {
+            "tags": {
+              "m": true,
+              "nc": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "images/common/spine/shinning_water_h.json",
+            "shinning_water_h.json"
+          ],
+          "src": [
+            "images/common/spine/shinning_water_h-zCk3jA.json"
+          ],
+          "data": {
+            "tags": {
+              "m": true,
+              "nc": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "images/common/spine/shinning_water_h.png",
+            "shinning_water_h.png"
+          ],
+          "src": [
+            "images/common/spine/shinning_water_h-09ltgw.png"
+          ],
+          "data": {
+            "tags": {
+              "m": true,
+              "nc": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "images/common/spine/shinning_water.png",
+            "shinning_water.png"
+          ],
+          "src": [
+            "images/common/spine/shinning_water-09ltgw.png"
+          ],
+          "data": {
+            "tags": {
+              "m": true,
+              "nc": true
+            }
+          }
+        }
+      ]
+    }
+  ]
+}
