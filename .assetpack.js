@@ -10,20 +10,7 @@ export default {
 			cacheBust: true,
 			audio: audio(),
 			resolutions: {
-				default: 1,
-			},
-
-			compression: {
-				png: { quality: 100, compressionLevel: 0 },
-				jpeg: { quality: 100, compressionLevel: 0 },
-				webp: false,
-			},
-			texturePacker: {
-				nameStyle: 'short',
-				allowRotation: false,
-				resolutionOptions: {
-					fixedResolution: 'default',
-				},
+				default: 0.5,
 			},
 			manifest: {
 				output: './src/manifest.json',
